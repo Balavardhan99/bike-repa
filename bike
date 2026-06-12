@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bike Repair Process</title>
+
+<style>
+body{
+    font-family: Arial, sans-serif;
+    background:#f4f4f4;
+    margin:0;
+    padding:0;
+}
+
+header{
+    background:#222;
+    color:white;
+    text-align:center;
+    padding:20px;
+}
+
+.container{
+    width:80%;
+    margin:auto;
+    margin-top:30px;
+}
+
+.step{
+    background:white;
+    padding:20px;
+    margin-bottom:15px;
+    border-left:8px solid #ff6600;
+    box-shadow:0 2px 8px rgba(0,0,0,0.2);
+    transition:0.3s;
+}
+
+.step:hover{
+    transform:scale(1.02);
+}
+
+h2{
+    color:#ff6600;
+}
+
+footer{
+    background:#222;
+    color:white;
+    text-align:center;
+    padding:15px;
+    margin-top:30px;
+}
+</style>
+
+</head>
+
+<body>
+
+<header>
+<h1>🏍 Bike Repair Process</h1>
+<p>Complete Service Workflow</p>
+</header>
+
+<div class="container">
+
+<div class="step">
+<h2>Step 1: Customer Inspection</h2>
+<p>Check customer complaints and inspect the bike for visible damage.</p>
+</div>
+
+<div class="step">
+<h2>Step 2: Engine Diagnosis</h2>
+<p>Inspect engine oil, spark plug, battery, and fuel system.</p>
+</div>
+
+<div class="step">
+<h2>Step 3: Brake Check</h2>
+<p>Check brake pads, brake oil, cables, and braking performance.</p>
+</div>
+
+<div class="step">
+<h2>Step 4: Chain & Gear Service</h2>
+<p>Clean and lubricate the chain and adjust gear settings.</p>
+</div>
+
+<div class="step">
+<h2>Step 5: Tyre Inspection</h2>
+<p>Check tyre pressure, punctures, tread depth, and wheel alignment.</p>
+</div>
+
+<div class="step">
+<h2>Step 6: Electrical Check</h2>
+<p>Test headlights, indicators, horn, battery, and wiring.</p>
+</div>
+
+<div class="step">
+<h2>Step 7: Oil Change</h2>
+<p>Replace engine oil and oil filter if required.</p>
+</div>
+
+<div class="step">
+<h2>Step 8: Final Test Ride</h2>
+<p>Perform a road test and ensure all systems work properly.</p>
+</div>
+
+<div class="step">
+<h2>Step 9: Delivery</h2>
+<p>Clean the bike and hand it over to the customer with service details.</p>
+</div>
+
+</div>
+
+<footer>
+© 2026 Bike Repair Management System
+</footer>
+
+</body>
+</html>
